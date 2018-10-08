@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "846619377569",
+    "firebase_url": "https://boyka-201506.firebaseio.com",
+    "project_id": "boyka-201506",
+    "storage_bucket": "boyka-201506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846619377569:android:6ed0a6facca5d2ea",
+        "android_client_info": {
+          "package_name": "com.ajay.firebasephoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846619377569-kop37pjc6f1ge76crigjv92h4hbuqa8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk53G1UcXEv3ADlF166Gcz0i_XlAj54C8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846619377569:android:f850ac2b8cfdcbdd",
+        "android_client_info": {
+          "package_name": "com.poi.boyja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846619377569-kop37pjc6f1ge76crigjv92h4hbuqa8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk53G1UcXEv3ADlF166Gcz0i_XlAj54C8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
